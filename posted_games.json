@@ -1,4 +1,45 @@
 {
-  "last_digest": null,
-  "posted": {}
+  "last_digest": "2026-10-11",
+  "posted": {
+    "2915770": {
+      "demo": "2026-10-11",
+      "name": "Rescue Ops: Wildfire"
+    },
+    "3058360": {
+      "name": "Parisian Bistro Simulator",
+      "release": "2026-10-11"
+    },
+    "306910": {
+      "demo": "2026-10-11",
+      "name": "Vaultbreakers"
+    },
+    "3560670": {
+      "name": "OpenFront",
+      "release": "2026-10-11"
+    },
+    "3883570": {
+      "name": "Invokyr",
+      "release": "2026-10-11"
+    },
+    "4173620": {
+      "name": "I Know a Guy: Shady Life Simulator",
+      "release": "2026-10-11"
+    },
+    "4182190": {
+      "demo": "2026-10-11",
+      "name": "Too Deep To Quit"
+    },
+    "4465790": {
+      "demo": "2026-10-11",
+      "name": "Deadzone Rogue 2"
+    },
+    "4671380": {
+      "name": "Scapewatch: Idle MMO",
+      "release": "2026-10-11"
+    },
+    "4981570": {
+      "name": "Wand & Order: Tidy up the magic shop!",
+      "release": "2026-10-11"
+    }
+  }
 }
