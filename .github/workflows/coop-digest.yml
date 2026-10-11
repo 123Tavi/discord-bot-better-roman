@@ -1,0 +1,47 @@
+name: Co-op digest
+
+on:
+  schedule:
+    # Every hour at :17 (runs at :00 are the most delayed). The script picks a random
+    # time each day and posts on the first run after it; other runs exit in seconds.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      post_now:
+        description: "Post now instead of at today's random time"
+        type: boolean
+        default: true
+      dry_run:
+        description: "Dry run: only print the digest in the log"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write  # to commit posted_games.json
+
+concurrency:
+  group: coop-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Post the digest if it's due
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python3 coop_digest.py ${{ inputs.post_now && '--now' || '' }} ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Save the record of posted games
+        if: ${{ !cancelled() }}  # also after a failure, in case some messages went out
+        run: |
+          git add posted_games.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update posted games"
+          git pull --rebase
+          git push
