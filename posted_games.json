@@ -1,6 +1,14 @@
 {
-  "last_digest": "2026-10-11",
+  "last_digest": "2026-10-12",
   "posted": {
+    "2440760": {
+      "demo": "2026-10-12",
+      "name": "GRAVHOUNDS"
+    },
+    "2708040": {
+      "demo": "2026-10-12",
+      "name": "Keelblade (formerly Triarchy)"
+    },
     "2915770": {
       "demo": "2026-10-11",
       "name": "Rescue Ops: Wildfire"
@@ -17,9 +25,21 @@
       "name": "OpenFront",
       "release": "2026-10-11"
     },
+    "3788110": {
+      "demo": "2026-10-12",
+      "name": "DungeonBox"
+    },
     "3883570": {
       "name": "Invokyr",
       "release": "2026-10-11"
+    },
+    "3929340": {
+      "demo": "2026-10-12",
+      "name": "We Build Below"
+    },
+    "4009490": {
+      "demo": "2026-10-12",
+      "name": "Arctic Drive"
     },
     "4173620": {
       "name": "I Know a Guy: Shady Life Simulator",
@@ -29,6 +49,14 @@
       "demo": "2026-10-11",
       "name": "Too Deep To Quit"
     },
+    "4186890": {
+      "demo": "2026-10-12",
+      "name": "Kitman"
+    },
+    "4252340": {
+      "name": "CPM 2",
+      "release": "2026-10-12"
+    },
     "4465790": {
       "demo": "2026-10-11",
       "name": "Deadzone Rogue 2"
@@ -37,9 +65,21 @@
       "name": "Scapewatch: Idle MMO",
       "release": "2026-10-11"
     },
+    "4968640": {
+      "name": "Japanese Ramen Simulator",
+      "release": "2026-10-12"
+    },
     "4981570": {
       "name": "Wand & Order: Tidy up the magic shop!",
       "release": "2026-10-11"
+    },
+    "5108820": {
+      "demo": "2026-10-12",
+      "name": "Handle With Care"
+    },
+    "5175840": {
+      "demo": "2026-10-12",
+      "name": "The Extractors"
     }
   }
 }
