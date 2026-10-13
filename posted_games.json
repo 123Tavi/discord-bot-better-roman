@@ -1,5 +1,5 @@
 {
-  "last_digest": "2026-10-12",
+  "last_digest": "2026-10-13",
   "posted": {
     "2440760": {
       "demo": "2026-10-12",
@@ -21,13 +21,25 @@
       "demo": "2026-10-11",
       "name": "Vaultbreakers"
     },
+    "3071240": {
+      "name": "Voodoo Fishin'",
+      "release": "2026-10-13"
+    },
     "3560670": {
       "name": "OpenFront",
       "release": "2026-10-11"
     },
+    "3629320": {
+      "demo": "2026-10-13",
+      "name": "Astrocraft"
+    },
     "3788110": {
       "demo": "2026-10-12",
       "name": "DungeonBox"
+    },
+    "3846920": {
+      "demo": "2026-10-13",
+      "name": "Anomaly Express"
     },
     "3883570": {
       "name": "Invokyr",
@@ -61,6 +73,10 @@
       "demo": "2026-10-11",
       "name": "Deadzone Rogue 2"
     },
+    "4536480": {
+      "demo": "2026-10-13",
+      "name": "All Rats on Deck"
+    },
     "4671380": {
       "name": "Scapewatch: Idle MMO",
       "release": "2026-10-11"
@@ -69,17 +85,41 @@
       "name": "Japanese Ramen Simulator",
       "release": "2026-10-12"
     },
+    "4978260": {
+      "demo": "2026-10-13",
+      "name": "SHEEP HAPPENS"
+    },
     "4981570": {
       "name": "Wand & Order: Tidy up the magic shop!",
       "release": "2026-10-11"
+    },
+    "5046250": {
+      "demo": "2026-10-13",
+      "name": "BrouHaHa"
     },
     "5108820": {
       "demo": "2026-10-12",
       "name": "Handle With Care"
     },
+    "5155490": {
+      "demo": "2026-10-13",
+      "name": "Aer Isles"
+    },
     "5175840": {
       "demo": "2026-10-12",
       "name": "The Extractors"
+    },
+    "5254220": {
+      "demo": "2026-10-13",
+      "name": "Pawtings! Hidden Dogs"
+    },
+    "5337990": {
+      "demo": "2026-10-13",
+      "name": "Abyss"
+    },
+    "5353370": {
+      "demo": "2026-10-13",
+      "name": "Animal Farm"
     }
   }
 }
