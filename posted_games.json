@@ -1,5 +1,5 @@
 {
-  "last_digest": "2026-10-13",
+  "last_digest": "2026-10-14",
   "posted": {
     "2440760": {
       "demo": "2026-10-12",
@@ -12,6 +12,14 @@
     "2915770": {
       "demo": "2026-10-11",
       "name": "Rescue Ops: Wildfire"
+    },
+    "2929250": {
+      "name": "over the hill",
+      "release": "2026-10-14"
+    },
+    "2949320": {
+      "name": "Ratatan",
+      "release": "2026-10-14"
     },
     "3058360": {
       "name": "Parisian Bistro Simulator",
@@ -32,6 +40,10 @@
     "3629320": {
       "demo": "2026-10-13",
       "name": "Astrocraft"
+    },
+    "3680170": {
+      "demo": "2026-10-14",
+      "name": "Mortuus"
     },
     "3788110": {
       "demo": "2026-10-12",
@@ -77,6 +89,10 @@
       "demo": "2026-10-13",
       "name": "All Rats on Deck"
     },
+    "4613790": {
+      "demo": "2026-10-14",
+      "name": "Spooky Ride"
+    },
     "4671380": {
       "name": "Scapewatch: Idle MMO",
       "release": "2026-10-11"
@@ -93,6 +109,10 @@
       "name": "Wand & Order: Tidy up the magic shop!",
       "release": "2026-10-11"
     },
+    "5015330": {
+      "demo": "2026-10-14",
+      "name": "Death Row"
+    },
     "5046250": {
       "demo": "2026-10-13",
       "name": "BrouHaHa"
@@ -100,6 +120,10 @@
     "5108820": {
       "demo": "2026-10-12",
       "name": "Handle With Care"
+    },
+    "5116420": {
+      "demo": "2026-10-14",
+      "name": "Dirty Derby"
     },
     "5155490": {
       "demo": "2026-10-13",
@@ -113,6 +137,14 @@
       "demo": "2026-10-13",
       "name": "Pawtings! Hidden Dogs"
     },
+    "5263410": {
+      "demo": "2026-10-14",
+      "name": "Steal A Coffin"
+    },
+    "5336520": {
+      "demo": "2026-10-14",
+      "name": "DeadFront"
+    },
     "5337990": {
       "demo": "2026-10-13",
       "name": "Abyss"
@@ -120,6 +152,14 @@
     "5353370": {
       "demo": "2026-10-13",
       "name": "Animal Farm"
+    },
+    "5354240": {
+      "demo": "2026-10-14",
+      "name": "THE BACKLOG"
+    },
+    "5397060": {
+      "demo": "2026-10-14",
+      "name": "Cropocalypse"
     }
   }
 }
