@@ -1,5 +1,5 @@
 {
-  "last_digest": "2026-10-15",
+  "last_digest": "2026-10-16",
   "posted": {
     "1203620": {
       "name": "Enshrouded",
@@ -36,6 +36,14 @@
     "3071240": {
       "name": "Voodoo Fishin'",
       "release": "2026-10-13"
+    },
+    "3133520": {
+      "demo": "2026-10-16",
+      "name": "Re:Rite"
+    },
+    "3314580": {
+      "name": "Trash Day",
+      "release": "2026-10-16"
     },
     "3355410": {
       "demo": "2026-10-15",
@@ -81,6 +89,10 @@
       "demo": "2026-10-15",
       "name": "Refuel Together"
     },
+    "4124640": {
+      "demo": "2026-10-16",
+      "name": "Boss in Diapers"
+    },
     "4173620": {
       "name": "I Know a Guy: Shady Life Simulator",
       "release": "2026-10-11"
@@ -101,6 +113,10 @@
       "name": "CPM 2",
       "release": "2026-10-12"
     },
+    "4277590": {
+      "demo": "2026-10-16",
+      "name": "Soul Hunter"
+    },
     "4383770": {
       "demo": "2026-10-15",
       "name": "Project Betrayal"
@@ -112,6 +128,10 @@
     "4536480": {
       "demo": "2026-10-13",
       "name": "All Rats on Deck"
+    },
+    "4537500": {
+      "demo": "2026-10-16",
+      "name": "Beat A Boo!"
     },
     "4613790": {
       "demo": "2026-10-14",
@@ -125,9 +145,17 @@
       "name": "Scapewatch: Idle MMO",
       "release": "2026-10-11"
     },
+    "4810270": {
+      "demo": "2026-10-16",
+      "name": "Animals League Unite"
+    },
     "4928080": {
       "demo": "2026-10-15",
       "name": "Seikyu Let’s Go!  "
+    },
+    "4954970": {
+      "demo": "2026-10-16",
+      "name": "No Body No Problem!"
     },
     "4968640": {
       "name": "Japanese Ramen Simulator",
@@ -145,9 +173,17 @@
       "demo": "2026-10-14",
       "name": "Death Row"
     },
+    "5029430": {
+      "demo": "2026-10-16",
+      "name": "Empty House"
+    },
     "5046250": {
       "demo": "2026-10-13",
       "name": "BrouHaHa"
+    },
+    "5057540": {
+      "demo": "2026-10-16",
+      "name": "Overrafted!"
     },
     "5065720": {
       "demo": "2026-10-15",
@@ -160,6 +196,10 @@
     "5116420": {
       "demo": "2026-10-14",
       "name": "Dirty Derby"
+    },
+    "5132390": {
+      "demo": "2026-10-16",
+      "name": "Hunting Contract"
     },
     "5155490": {
       "demo": "2026-10-13",
