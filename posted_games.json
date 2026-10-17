@@ -1,9 +1,13 @@
 {
-  "last_digest": "2026-10-16",
+  "last_digest": "2026-10-17",
   "posted": {
     "1203620": {
       "name": "Enshrouded",
       "release": "2026-10-15"
+    },
+    "2379350": {
+      "demo": "2026-10-17",
+      "name": "Scramble Knights Online"
     },
     "2440760": {
       "demo": "2026-10-12",
@@ -53,6 +57,10 @@
       "name": "OpenFront",
       "release": "2026-10-11"
     },
+    "3569420": {
+      "name": "Chained Beasts",
+      "release": "2026-10-17"
+    },
     "3629320": {
       "demo": "2026-10-13",
       "name": "Astrocraft"
@@ -64,6 +72,10 @@
     "3680170": {
       "demo": "2026-10-14",
       "name": "Mortuus"
+    },
+    "3788060": {
+      "demo": "2026-10-17",
+      "name": "Moloch Kombinat"
     },
     "3788110": {
       "demo": "2026-10-12",
@@ -80,6 +92,10 @@
     "3929340": {
       "demo": "2026-10-12",
       "name": "We Build Below"
+    },
+    "4001660": {
+      "demo": "2026-10-17",
+      "name": "Undying Knights"
     },
     "4009490": {
       "demo": "2026-10-12",
@@ -205,6 +221,10 @@
       "demo": "2026-10-13",
       "name": "Aer Isles"
     },
+    "5163510": {
+      "demo": "2026-10-17",
+      "name": "Bugs & Birdies"
+    },
     "5175840": {
       "demo": "2026-10-12",
       "name": "The Extractors"
@@ -212,6 +232,10 @@
     "5192630": {
       "demo": "2026-10-15",
       "name": "Gridlock Alchemy"
+    },
+    "5248370": {
+      "demo": "2026-10-17",
+      "name": "Buildmaxxing"
     },
     "5254220": {
       "demo": "2026-10-13",
@@ -221,6 +245,10 @@
       "demo": "2026-10-14",
       "name": "Steal A Coffin"
     },
+    "5336080": {
+      "demo": "2026-10-17",
+      "name": "Gacha Chaos Tidy Up Together"
+    },
     "5336520": {
       "demo": "2026-10-14",
       "name": "DeadFront"
@@ -228,6 +256,10 @@
     "5337990": {
       "demo": "2026-10-13",
       "name": "Abyss"
+    },
+    "5342450": {
+      "demo": "2026-10-17",
+      "name": "VPet Sort Together: Cozy Tidy Up"
     },
     "5353370": {
       "demo": "2026-10-13",
@@ -240,6 +272,14 @@
     "5397060": {
       "demo": "2026-10-14",
       "name": "Cropocalypse"
+    },
+    "5399880": {
+      "demo": "2026-10-17",
+      "name": "Librarian Together: Manga Tidy Up"
+    },
+    "5404010": {
+      "demo": "2026-10-17",
+      "name": "Cinderwake"
     }
   }
 }
